@@ -3,20 +3,20 @@
 <h3 align="center">AWS Cloud Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarthorbole3962&label=Profile%20views&color=0e75b6&style=flat" alt="omkarthorbole3962" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarthorbole3962&theme=juicyfresh" alt="omkarthorbole3962" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarthorbole3962&theme=nord" alt="omkarthorbole3962" /></a> </p>
 
 - 🌱 I’m currently learning **Devop's and Its Working that to meet the client expectations.**
 - 💬 Ask me about **AWS Services , Architecture designs of cloud solutions, Infrastructure As Code.**
 - 📫 How to reach me **omkarthorbole3962@gmail.com**
 - ⚡ Fun fact **I've backpacked solo across Himalayan Hills and learned valuable lessons about Life !**
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/omkar-thorbole-b1963721b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/omkar-thorbole-b1963721b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/omkarthorbole3962" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/omkar_thorbole_15701_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:omkarthorbole3962@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-thorbole-b1963721b" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-thorbole-b1963721b" height="30" width="40" /></a><a href="https://instagram.com/omkar_thorbole_15701_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="omkar_thorbole_15701_" height="30" width="40" /></a><a href="https://medium.com/Omkar Thorbole" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="Omkar Thorbole" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-thorbole-b1963721b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-thorbole-b1963721b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a><a href="https://instagram.com/omkar_thorbole_15701_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="omkar_thorbole_15701_" height="30" width="40" /></a><a href="https://medium.com/Omkar Thorbole" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="Omkar Thorbole" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
